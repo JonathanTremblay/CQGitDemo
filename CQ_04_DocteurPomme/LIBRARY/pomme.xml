@@ -1,8 +1,72 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pomme" itemID="4b23cafc-00000015" symbolType="graphic" lastModified="1260636924">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pomme" itemID="4b23cafc-00000015" symbolType="graphic" lastModified="1378478069">
   <timeline>
     <DOMTimeline name="pomme">
       <layers>
-        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="Calque 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.000701904296875" d="0.00189208984375" tx="5.7" ty="1.55"/>
+                            </matrix>
+                            <GradientEntry color="#B58464" ratio="0"/>
+                            <GradientEntry color="#62432F" ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!108 57S2|116 39!116 39[116 35 110 25!110 25[103 15 103 10!103 10[103 -10 115 9!115 9[126 28 126 38!126 38[122 62 114 62!114 62[109 62 108 60!108 60|108 57"/>
+                        <Edge cubics="!126 38(;126,40 122,62 114,62q126 38Q122 62q114 62);"/>
+                        <Edge cubics="!114 62(114,62;106,62 108,57 108,57q114 62Q109 62q108 60Q108 57q108 57);"/>
+                        <Edge cubics="!108 57(108,57;108,56 116,39 116,39q108 57 116 39);"/>
+                        <Edge cubics="!116 39(;116,30 103,19 103,10q116 39Q116 35q110 25Q103 15q103 10)103,10;"/>
+                        <Edge cubics="!103 10(103,10;103,-20 126,28 126,38q103 10Q103 -10q115 9Q126 28q126 38)126,38;"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.009735107421875" d="0.008941650390625" tx="8.55" ty="6.15"/>
+                            </matrix>
+                            <GradientEntry color="#FCE5AD" ratio="0"/>
+                            <GradientEntry color="#FAD67E" ratio="0.113725490196078"/>
+                            <GradientEntry color="#8BFF11" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="0.4">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!115 42.5[#79.A5 #2D.2D 126 42!126 42[#82.32 #26.DF 133.5 40!133.5 40|137 41.5!137 41.5[#8E.6C #2C.81 147 50!147 50[154 57 161 68!161 68[177 93 197 124!197 124[225 180 194 212!194 212[162 245 124 250!124 250[87 255 44 217!44 217[1 178
+ 35 124!35 124[49 104 61 92!61 92[76 77 90 60!90 60[93 56 96 53!96 53[#63.E4 #2F.0E 104 43.5!104 43.5[#6C.52 #27.D6 115 42.5"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 1" color="#4FFF4F" visible="false" layerType="guide">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -19,7 +83,8 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!114 62S2[109 62 108 60!108 60|108 57!108 57|116 39!116 39[116 35 110 25!110 25[103 15 103 10!103 10[103 -10 115 9!115 9[126 28 126 38!126 38[122 62 114 62"/>
+                    <Edge fillStyle1="1" edges="
+!114 62[109 62 108 60!108 60|108 57!108 57|116 39!116 39[116 35 110 25!110 25[103 15 103 10!103 10[103 -10 115 9!115 9[126 28 126 38!126 38[122 62 114 62"/>
                     <Edge cubics="!126 38(;126,40 122,62 114,62q126 38Q122 62q114 62);"/>
                     <Edge cubics="!114 62(114,62;106,62 108,57 108,57q114 62Q109 62q108 60Q108 57q108 57);"/>
                     <Edge cubics="!108 57(108,57;108,56 116,39 116,39q108 57 116 39);"/>
@@ -27,9 +92,9 @@
                     <Edge cubics="!103 10(103,10;103,-20 126,28 126,38q103 10Q103 -10q115 9Q126 28q126 38)126,38;"/>
                   </edges>
                 </DOMShape>
-                <DOMGroup selected="true">
+                <DOMGroup>
                   <members>
-                    <DOMShape selected="true">
+                    <DOMShape>
                       <fills>
                         <FillStyle index="1">
                           <RadialGradient>
@@ -51,7 +116,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!32 57S6[64 32 113 58!113 58[162 34 199 58!199 58[236 82 236 131!236 131[236 180 201 214!201 214[167 249 118 249!118 249[69 249 34 214!34 214[0 180 0 131!0 131[0 82 32 57"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!32 57S6[64 32 113 58!113 58[162 34 199 58!199 58[236 82 236 131!236 131[236 180 201 214!201 214[167 249 118 249!118 249[69 249 34 214!34 214[0 180 0 131!0 131[0 82 32 57"/>
                       </edges>
                     </DOMShape>
                   </members>
