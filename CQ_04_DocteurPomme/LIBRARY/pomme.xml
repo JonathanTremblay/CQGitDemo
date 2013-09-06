@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pomme" itemID="4b23cafc-00000015" symbolType="graphic" lastModified="1260636924">
+  <timeline>
+    <DOMTimeline name="pomme">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.000701904296875" d="0.00189208984375" tx="5.7" ty="1.55"/>
+                        </matrix>
+                        <GradientEntry color="#B58464" ratio="0"/>
+                        <GradientEntry color="#62432F" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!114 62S2[109 62 108 60!108 60|108 57!108 57|116 39!116 39[116 35 110 25!110 25[103 15 103 10!103 10[103 -10 115 9!115 9[126 28 126 38!126 38[122 62 114 62"/>
+                    <Edge cubics="!126 38(;126,40 122,62 114,62q126 38Q122 62q114 62);"/>
+                    <Edge cubics="!114 62(114,62;106,62 108,57 108,57q114 62Q109 62q108 60Q108 57q108 57);"/>
+                    <Edge cubics="!108 57(108,57;108,56 116,39 116,39q108 57 116 39);"/>
+                    <Edge cubics="!116 39(;116,30 103,19 103,10q116 39Q116 35q110 25Q103 15q103 10)103,10;"/>
+                    <Edge cubics="!103 10(103,10;103,-20 126,28 126,38q103 10Q103 -10q115 9Q126 28q126 38)126,38;"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0076904296875" d="0.0076904296875" tx="7.65" ty="6.75"/>
+                            </matrix>
+                            <GradientEntry color="#FCCCAD" ratio="0"/>
+                            <GradientEntry color="#FF1111" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="0.4">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!32 57S6[64 32 113 58!113 58[162 34 199 58!199 58[236 82 236 131!236 131[236 180 201 214!201 214[167 249 118 249!118 249[69 249 34 214!34 214[0 180 0 131!0 131[0 82 32 57"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="nuage2" itemID="4b23c797-00000013" symbolType="graphic" lastModified="1323790060">
+  <timeline>
+    <DOMTimeline name="nuage2">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="-0.0659637451171875" b="0.004608154296875" c="0.0042266845703125" d="0.0604705810546875" tx="47.7" ty="24.85"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#CFDADA" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1938 305[1879 190 1761 112!1761 112[1645 34 1401 121!1401 121[1245 -75 1048 -61!1048 -61[852 -47 749 105!749 105[474 -63 300 54!300 54[125 169 168 279!168 279[-125 371 -111 572!-111 572[-104 674 119 710!119 710[51 861 229 937!229 937
+[404 1013 627 908!627 908[792 1059 1022 1037!1022 1037[1253 1016 1409 867!1409 867[1567 995 1767 903!1767 903[1967 808 1811 581!1811 581[1998 418 1938 305"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

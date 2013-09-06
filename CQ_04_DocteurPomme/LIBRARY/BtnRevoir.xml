@@ -1,0 +1,130 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BtnRevoir" itemID="50f449e2-000001fa" symbolType="button" lastModified="1358187041">
+  <timeline>
+    <DOMTimeline name="BtnRevoir" currentFrame="2">
+      <layers>
+        <DOMLayer name="texte" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" left="-47.25" width="238.5" height="35.55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-5.75" ty="9.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>REVOIR L'ANIMATION</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="22" bitmapSize="440" face="VinerHandITC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" left="-47.25" width="238.5" height="35.55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-5.75" ty="9.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>REVOIR L'ANIMATION</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="22" bitmapSize="440" face="VinerHandITC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="8" blurY="8" color="#99FF00" quality="2"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-47.25" width="238.5" height="35.55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-5.75" ty="9.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>REVOIR L'ANIMATION</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="22" bitmapSize="440" face="VinerHandITC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="8" blurY="8" color="#99FF00" quality="2"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="forme" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="271" objectHeight="48" x="207.2" y="330.7" lockFlag="true" topLeftRadius="16" topRightRadius="16" bottomLeftRadius="16" bottomRightRadius="16">
+                  <matrix>
+                    <Matrix tx="-277.2" ty="-330.7"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="4">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="271" objectHeight="48" x="207.2" y="330.7" lockFlag="true" topLeftRadius="16" topRightRadius="16" bottomLeftRadius="16" bottomRightRadius="16">
+                  <matrix>
+                    <Matrix tx="-277.2" ty="-330.7"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="6">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="271" objectHeight="48" x="207.2" y="330.7" lockFlag="true" topLeftRadius="16" topRightRadius="16" bottomLeftRadius="16" bottomRightRadius="16">
+                  <matrix>
+                    <Matrix tx="-277.2" ty="-330.7"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="6">
+                      <fill>
+                        <SolidColor color="#FFFFFF"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

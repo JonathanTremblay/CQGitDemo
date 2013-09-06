@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="nuage" itemID="4b23c752-00000010" symbolType="graphic" lastModified="1323790055">
+  <timeline>
+    <DOMTimeline name="nuage">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.05511474609375" d="0.05511474609375" tx="44.9" ty="25"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#CFDADA" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1675 631[1670 773 1527 853!1527 853[1386 933 1194 812!1194 812[1067 1000 898 1000!898 1000[779 1000 637 840!637 840[445 953 268 853!268 853[127 774 146 656!146 656[8 594 0 442!0 442[-9 290 164 193!164 193[336 95 495 167!495 167[649 0
+ 898 0!898 0[996 0 1062 66!1062 66[#545.5 #FFFFD7.81 1441.5 56!1441.5 56[#5FD.B #98.7F 1539 253!1539 253[1788 317 1788 500!1788 500[1788 593 1675 631"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

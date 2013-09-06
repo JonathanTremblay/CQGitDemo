@@ -1,0 +1,11 @@
+Un bon conseil Docteur?
+Par Hermès Maheu et Jonathan Tremblay
+TIM – Cégep de St-Jérôme
+------------------------------------------------------------------------
+VERSION 1.1 (finale)
+Date: 2013-01-14
+Nouveautés:
+- Ajout d'un titre et d'un bouton au début
+- Ajout de musiques
+Problèmes connus:
+- Le fichier de la lune n'est pas optimal
