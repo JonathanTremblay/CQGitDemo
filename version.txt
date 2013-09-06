@@ -2,15 +2,6 @@ Un bon conseil Docteur?
 Par Hermès Maheu et Jonathan Tremblay
 TIM – Cégep de St-Jérôme
 ------------------------------------------------------------------------
-VERSION 1.2 Alpha 1
-Date: 2013-09-06
-Nouveautés:
-- À la demande du client, les pommes ont été remplacées par des poires
-- Les fruits dans les arbres ont été agrandis (125%)
-Problèmes connus:
-- Le fichier de la lune n'est pas optimal
-- Le son parle toujours de pommes...
-------------------------------------------------------------------------
 VERSION 1.1 (finale)
 Date: 2013-01-14
 Nouveautés:
