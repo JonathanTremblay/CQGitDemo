@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="arbre" itemID="4b23cc00-00000019" symbolType="graphic" lastModified="1323793758">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="arbre" itemID="4b23cc00-00000019" symbolType="graphic" lastModified="1378478347">
   <timeline>
     <DOMTimeline name="arbre">
       <layers>
@@ -6,81 +6,81 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" centerPoint3DX="-78.8" centerPoint3DY="-90.9" loop="loop">
                   <matrix>
-                    <Matrix tx="-84.5" ty="-89.95"/>
+                    <Matrix a="1.25" d="1.25" tx="-85.95" ty="-98.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" selected="true" symbolType="graphic" centerPoint3DX="-194.8" centerPoint3DY="-86.5" loop="loop">
                   <matrix>
-                    <Matrix tx="-193.4" ty="-87.25"/>
+                    <Matrix a="1.25" d="1.25" tx="-202" ty="-94.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" centerPoint3DX="-140.2" centerPoint3DY="-87.1" loop="loop">
                   <matrix>
-                    <Matrix tx="-145.9" ty="-93.35"/>
+                    <Matrix a="1.25" d="1.25" tx="-147.35" ty="-94.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" centerPoint3DX="-80.2" centerPoint3DY="-145.1" loop="loop">
                   <matrix>
-                    <Matrix tx="-85.9" ty="-151.35"/>
+                    <Matrix a="1.25" d="1.25" tx="-87.35" ty="-152.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" centerPoint3DX="-269.2" centerPoint3DY="-138.1" loop="loop">
                   <matrix>
-                    <Matrix tx="-274.9" ty="-144.35"/>
+                    <Matrix a="1.25" d="1.25" tx="-276.35" ty="-145.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" centerPoint3DX="-214.2" centerPoint3DY="-130.6" loop="loop">
                   <matrix>
-                    <Matrix tx="-219.9" ty="-136.85"/>
+                    <Matrix a="1.25" d="1.25" tx="-221.35" ty="-138.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" centerPoint3DX="-143.7" centerPoint3DY="-149.6" loop="loop">
                   <matrix>
-                    <Matrix tx="-149.4" ty="-155.85"/>
+                    <Matrix a="1.25" d="1.25" tx="-150.9" ty="-157.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" centerPoint3DX="-220.7" centerPoint3DY="-185.1" loop="loop">
                   <matrix>
-                    <Matrix tx="-226.4" ty="-191.35"/>
+                    <Matrix a="1.25" d="1.25" tx="-227.9" ty="-192.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" centerPoint3DX="-117.7" centerPoint3DY="-188.6" loop="loop">
                   <matrix>
-                    <Matrix tx="-123.4" ty="-194.85"/>
+                    <Matrix a="1.25" d="1.25" tx="-124.9" ty="-196.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="pomme" symbolType="graphic" centerPoint3DX="-106.45" centerPoint3DY="-102.3" loop="loop">
                   <matrix>
-                    <Matrix tx="-106.4" ty="-110.35"/>
+                    <Matrix a="1.25" d="1.25" tx="-113.65" ty="-110.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="5.9" y="6.3"/>

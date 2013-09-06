@@ -183,7 +183,7 @@
                     <Point x="-159.1" y="-57.95"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="arbre" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="arbre" selected="true" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix a="0.649993896484375" d="0.649993896484375" tx="446.75" ty="232.95"/>
                   </matrix>

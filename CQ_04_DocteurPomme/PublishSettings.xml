@@ -22,24 +22,24 @@
     <qtDefaultName>1</qtDefaultName>
     <rnwkDefaultName>1</rnwkDefaultName>
     <swcDefaultName>1</swcDefaultName>
-    <flashFileName>TREJ7654321_v4g_2012.swf</flashFileName>
-    <projectorWinFileName>TREJ7654321_v4g_2012.exe</projectorWinFileName>
-    <projectorMacFileName>TREJ7654321_v4g_2012.app</projectorMacFileName>
-    <htmlFileName>TREJ7654321_v4g_2012.html</htmlFileName>
-    <gifFileName>TREJ7654321_v4g_2012.gif</gifFileName>
-    <jpegFileName>TREJ7654321_v4g_2012.jpg</jpegFileName>
-    <pngFileName>TREJ7654321_v4g_2012.png</pngFileName>
-    <qtFileName>TREJ7654321_v4g_2012.mov</qtFileName>
-    <rnwkFileName>TREJ7654321_v4g_2012.smil</rnwkFileName>
-    <swcFileName>TREJ7654321_v4g_2012.swc</swcFileName>
+    <flashFileName>CQ_04_DocteurPomme.swf</flashFileName>
+    <projectorWinFileName>CQ_04_DocteurPomme.exe</projectorWinFileName>
+    <projectorMacFileName>CQ_04_DocteurPomme.app</projectorMacFileName>
+    <htmlFileName>CQ_04_DocteurPomme.html</htmlFileName>
+    <gifFileName>CQ_04_DocteurPomme.gif</gifFileName>
+    <jpegFileName>CQ_04_DocteurPomme.jpg</jpegFileName>
+    <pngFileName>CQ_04_DocteurPomme.png</pngFileName>
+    <qtFileName>CQ_04_DocteurPomme.mov</qtFileName>
+    <rnwkFileName>CQ_04_DocteurPomme.smil</rnwkFileName>
+    <swcFileName>CQ_04_DocteurPomme.swc</swcFileName>
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
     <VersionInfo>12,0,0,0;11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
-    <ContentFilename>TREJ7654321_v4g_2012_content.html</ContentFilename>
-    <AlternateFilename>TREJ7654321_v4g_2012_alternate.html</AlternateFilename>
+    <ContentFilename>CQ_04_DocteurPomme.xfl_content.html</ContentFilename>
+    <AlternateFilename>CQ_04_DocteurPomme.xfl_alternate.html</AlternateFilename>
     <UsingOwnAlternateFile>0</UsingOwnAlternateFile>
     <OwnAlternateFilename></OwnAlternateFilename>
     <Width>550</Width>
